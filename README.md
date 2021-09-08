@@ -1,3 +1,1 @@
-CppStarter
-
-https://youtu.be/B8qw38DFaac
+# Sudoku app with C++
